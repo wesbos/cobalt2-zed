@@ -1,0 +1,7 @@
+id = "cobalt2"
+name = "Cobalt2"
+version = "0.1.0"
+schema_version = 1
+authors = ["Nazar Hussain <nazarhussain@gmail.com>"]
+description = "Cobalt2 theme for Zed"
+repository = "https://github.com/nazarhussain/cobalt2-zed"
