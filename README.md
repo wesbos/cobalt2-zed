@@ -13,7 +13,7 @@
 3. Select _Cobalt2_ and Install
 4. Select your Cobatl2 theme in the dropdown shown after hitting ( `cmd+k`, `cmd+t` )
 
-### Install via spurce
+### Install via source
 
 1. Go to `~/.config/zed/themes`
 2. Clone the repo there `git clone git@github.com:nazarhussain/cobalt2-zed.git`
